@@ -1,0 +1,116 @@
+body {
+  font-family: Calibri, Arial, sans-serif;
+}
+
+#palette {
+  position: fixed;
+  top: 50px;
+  right: 110px;
+  width: 200px;
+  height: 25px;
+  font-size: 12pt;
+}
+
+#scheme {
+  position: fixed;
+  top: 450px;
+  right: 90px;
+  width: 175px;
+  height: 25px;
+}
+
+#left {
+  cursor: hand;
+  position: fixed;
+  top: 100px;
+  right: 360px;
+  width: 40px;
+  height: 300px;
+}
+
+#colorbase {
+  position: fixed;
+  top: 105px;
+  right: 65px;
+  width: 290px;
+  height: 290px;
+}
+
+#colorarrow {
+  position: fixed;
+  top: 100px;
+  right: 60px;
+  width: 300px;
+  height: 300px;
+}
+
+#right {
+  cursor: hand;
+  position: fixed;
+  top: 100px;
+  right: 20px;
+  width: 40px;
+  height: 300px;
+}
+
+#example {
+  position: relative;
+  top: 10px;
+  left: 30px;
+  width: 500px;
+  text-align: justify;
+  padding: 10px 30px;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 10px;
+  /*border: 0px; 
+  height: 100px;*/
+}
+
+#examplebody {
+  padding: 50px 20px;
+}
+
+#div1 {
+  padding: 10px 10px;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5px;
+}
+
+#color1 {
+  /*background-color: #aa00aa;*/
+  position: relative;
+  top: 0px;
+  left: 50px;
+  width: 300px;
+  margin: 0px
+  /*height: 100px;*/
+}
+
+#color2 {
+  /*background-color: #00aaaa;*/
+  position: relative;
+  top: 0px;
+  left: 100px;
+  width: 300px;
+  height: 100px;
+}
+
+#color3 {
+  /*background-color: #aaaa00;*/
+  position: relative;
+  top: 0px;
+  left: 150px;
+  width: 300px;
+  height: 100px;
+}
+
+#color4{
+  /*background-color: #aaaaaa;*/
+  position: relative;
+  top: 0px;
+  left: 50px;
+  width: 300px;
+  height: 100px;
+}
